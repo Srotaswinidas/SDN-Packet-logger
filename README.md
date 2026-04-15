@@ -22,7 +22,7 @@ You need to install Mininet and Ryu controller. Install Mininet using the comman
 
 ## Setup and Execution Steps
 
-First, clone the repository using git clone https://github.com/yourusername/sdn-packet-logger.git and navigate into the directory.
+First, clone the repository using git clone https://github.com/Srotaswinidas/SDN-Packet-logger and navigate into the directory.
 
 In Terminal 1, start the Ryu controller with the command ryu-manager packet_logger.py. You should see output indicating the app is loading and instantiating.
 
